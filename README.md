@@ -1,2 +1,2 @@
 # 🍽️ **Food Munch Website**
-Live:https://manojhotelwed.ccbp.tech/
+Live: https://manojhotelwed.ccbp.tech/
